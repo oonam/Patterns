@@ -4,7 +4,7 @@ public class Pattern019 {
       for (int j = 0; j < i; j++) {
         System.out.print((char)(65 + j));
       }
-      System.out.println();
+      //System.out.println();
     }
   }
 }
